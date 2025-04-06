@@ -1,4 +1,4 @@
-# Dépannage Informatique Guyane - Jadielle Informatique
+## Dépannage Informatique Guyane - Jadielle Informatique
 
 Jadielle Informatique is a computer repair company in French Guiana : PC troubleshooting and technical support services.
 
